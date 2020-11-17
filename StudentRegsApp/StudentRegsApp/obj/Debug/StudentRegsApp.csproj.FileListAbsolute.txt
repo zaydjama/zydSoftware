@@ -1,0 +1,5 @@
+C:\Users\Zyd Jma\Documents\GitHub\Csharp\StudentRegsApp\StudentRegsApp\bin\StudentRegsApp.dll.config
+C:\Users\Zyd Jma\Documents\GitHub\Csharp\StudentRegsApp\StudentRegsApp\bin\StudentRegsApp.dll
+C:\Users\Zyd Jma\Documents\GitHub\Csharp\StudentRegsApp\StudentRegsApp\bin\StudentRegsApp.pdb
+C:\Users\Zyd Jma\Documents\GitHub\Csharp\StudentRegsApp\StudentRegsApp\obj\Debug\StudentRegsApp.dll
+C:\Users\Zyd Jma\Documents\GitHub\Csharp\StudentRegsApp\StudentRegsApp\obj\Debug\StudentRegsApp.pdb
